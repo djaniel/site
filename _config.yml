@@ -7,9 +7,9 @@ baseurl: "/site" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Limoges
+state: Nouvelle Aquitaine
+zip_code: 87000
 country: France
 phone: (716) 555-5555
 
